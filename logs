@@ -1,0 +1,730 @@
+23:24:38.521 INFO GoogleUserManager.authenticate():64 - Attempting to authenticate with Google
+23:24:38.536 INFO GoogleUserManager.fetchUser():71 - Attempting to restore previous Google SignIn
+23:24:38.784 INFO GoogleUserManager.signIn():105 - User authenticated with Google successfully.
+23:24:38.787 INFO AppDefaults.getDefaultSheet():53 - Default sheet found: Copia de Aspire Budget v3.3
+23:24:38.790 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transactions.
+23:24:38.792 INFO GoogleContentManager.getRange():282 - Data requested for unknown type TrxCategories.
+23:24:41.512 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!2:2"]
+23:24:41.523 INFO GoogleContentManager.getVersion():202 - Using Aspire Version:  3.3.0
+23:24:42.032 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Dashboard!F6:O"]
+23:24:42.105 INFO DashboardViewModel.refresh():66 - Dashboard fetched.
+23:24:45.002 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Transactions!B9:H"]
+23:24:45.082 INFO TransactionsViewModel.refresh():59 - Trsansactions fetched.
+23:24:47.151 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Dashboard!B8:C"]
+23:24:47.162 INFO AccountBalancesViewModel.refresh():33 - Account Balances retrieved
+23:24:48.994 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Dashboard!F6:O"]
+23:24:49.069 INFO DashboardViewModel.refresh():66 - Dashboard fetched.
+23:24:50.134 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+23:24:50.939 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+23:24:50.951 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+23:24:57.398 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Transactions!B9:H"]
+23:24:57.481 INFO TransactionsViewModel.refresh():59 - Trsansactions fetched.
+23:24:59.740 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Dashboard!F6:O"]
+23:24:59.815 INFO DashboardViewModel.refresh():66 - Dashboard fetched.
+23:25:00.622 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+23:25:01.623 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+07:53:25.799 INFO GoogleUserManager.authenticate():64 - Attempting to authenticate with Google
+07:53:25.810 INFO GoogleUserManager.fetchUser():71 - Attempting to restore previous Google SignIn
+07:53:25.998 INFO GoogleUserManager.signIn():105 - User authenticated with Google successfully.
+07:53:26.001 INFO AppDefaults.getDefaultSheet():53 - Default sheet found: Copia de Aspire Budget v3.3
+07:53:26.003 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transactions.
+07:53:26.004 INFO GoogleContentManager.getRange():282 - Data requested for unknown type TrxCategories.
+07:53:28.619 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!2:2"]
+07:53:28.632 INFO GoogleContentManager.getVersion():202 - Using Aspire Version:  3.3.0
+07:53:29.015 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Dashboard!F6:O"]
+07:53:29.090 INFO DashboardViewModel.refresh():66 - Dashboard fetched.
+07:53:32.762 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+07:53:33.309 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+07:53:33.318 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+07:53:36.903 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Transactions!B9:H"]
+07:53:36.985 INFO TransactionsViewModel.refresh():59 - Trsansactions fetched.
+07:53:38.845 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Dashboard!F6:O"]
+07:53:38.922 INFO DashboardViewModel.refresh():66 - Dashboard fetched.
+07:53:42.024 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+07:53:42.956 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+09:24:48.185 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+09:24:51.530 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+09:24:51.532 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+09:25:03.986 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+09:25:04.599 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B941:H941
+09:25:07.683 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Transactions!B9:H"]
+09:25:07.767 INFO TransactionsViewModel.refresh():59 - Trsansactions fetched.
+09:25:09.809 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+09:25:10.834 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+14:58:47.694 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Dashboard!B8:C"]
+14:58:47.712 INFO AccountBalancesViewModel.refresh():33 - Account Balances retrieved
+14:58:52.479 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Dashboard!F6:O"]
+14:58:52.554 INFO DashboardViewModel.refresh():66 - Dashboard fetched.
+14:59:34.662 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+14:59:35.546 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+11:04:03.063 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+11:04:03.985 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+14:31:34.094 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+14:31:37.027 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+14:31:37.035 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+14:31:48.099 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+14:31:48.629 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B942:H942
+14:31:51.118 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+14:31:52.074 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+14:36:51.739 INFO GoogleUserManager.authenticate():64 - Attempting to authenticate with Google
+14:36:51.757 INFO GoogleUserManager.fetchUser():71 - Attempting to restore previous Google SignIn
+14:36:52.087 INFO GoogleUserManager.signIn():105 - User authenticated with Google successfully.
+14:36:52.090 INFO AppDefaults.getDefaultSheet():53 - Default sheet found: Copia de Aspire Budget v3.3
+14:36:52.092 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transactions.
+14:36:52.096 INFO GoogleContentManager.getRange():282 - Data requested for unknown type TrxCategories.
+14:36:55.179 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!2:2"]
+14:36:55.185 INFO GoogleContentManager.getVersion():202 - Using Aspire Version:  3.3.0
+14:36:55.651 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Dashboard!F6:O"]
+14:36:55.727 INFO DashboardViewModel.refresh():66 - Dashboard fetched.
+14:36:58.657 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+14:36:59.334 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+14:36:59.337 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+14:37:11.400 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+14:37:11.975 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B943:H943
+14:37:15.052 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+14:37:16.008 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+17:55:27.706 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+17:55:30.444 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+17:55:30.452 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+17:55:39.169 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+17:55:39.664 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B944:H944
+17:55:43.180 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+17:55:44.283 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+21:56:17.483 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+21:56:20.418 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+21:56:20.422 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+21:56:38.013 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+21:56:38.595 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B945:H945
+21:56:42.975 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+21:56:44.147 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+23:21:44.899 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+23:21:50.946 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Transactions!B9:H"]
+23:21:51.029 INFO TransactionsViewModel.refresh():59 - Trsansactions fetched.
+23:22:02.914 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Dashboard!F6:O"]
+23:22:02.991 INFO DashboardViewModel.refresh():66 - Dashboard fetched.
+23:22:12.232 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+23:22:13.235 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+10:04:41.197 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+10:04:43.700 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+10:04:43.708 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+10:04:58.329 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+10:04:59.202 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B946:H946
+10:05:02.035 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+10:05:02.952 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+10:42:38.555 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+10:42:40.973 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+10:42:40.980 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+10:42:47.335 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+10:42:47.985 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B947:H947
+10:42:49.882 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+10:42:50.843 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+16:42:48.294 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+16:42:51.238 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+16:42:51.241 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+16:42:59.630 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+16:43:00.304 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B948:H948
+16:43:10.935 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+16:43:11.873 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+10:16:30.855 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+10:16:32.755 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+10:16:32.759 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+10:16:43.460 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+10:16:44.247 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B949:H949
+10:16:46.894 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+10:16:47.828 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+13:33:22.795 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+13:33:25.748 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+13:33:25.760 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+13:33:45.533 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+13:33:46.127 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B950:H950
+13:33:49.487 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+13:33:50.414 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+00:09:39.893 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+00:09:42.076 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+00:09:42.082 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+00:10:03.082 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+00:10:03.687 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B951:H951
+00:10:31.652 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Transactions!B9:H"]
+00:10:31.736 INFO TransactionsViewModel.refresh():59 - Trsansactions fetched.
+00:10:33.536 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+00:10:34.491 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+10:37:27.312 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Dashboard!B8:C"]
+10:37:27.316 INFO AccountBalancesViewModel.refresh():33 - Account Balances retrieved
+10:37:28.134 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Dashboard!F6:O"]
+10:37:28.211 INFO DashboardViewModel.refresh():66 - Dashboard fetched.
+10:37:34.170 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+10:37:35.276 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+14:37:17.996 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+14:37:20.625 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+14:37:20.632 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+14:37:31.176 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+14:37:31.823 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B952:H952
+14:37:33.716 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+14:37:34.792 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+06:20:20.009 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+06:20:22.492 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+06:20:22.506 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+06:20:43.107 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+06:20:43.688 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B953:H953
+06:20:48.264 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+06:20:49.600 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+17:21:09.907 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+17:21:12.631 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+17:21:12.633 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+17:21:25.311 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+17:21:26.196 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B954:H954
+17:21:28.412 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+17:21:30.029 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+17:22:48.640 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+17:22:49.489 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+17:22:49.497 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+17:23:01.035 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+17:23:01.651 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B955:H955
+17:23:04.016 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+17:23:04.861 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+17:55:55.090 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+17:55:56.092 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+12:19:43.374 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G"]
+12:19:43.397 INFO CategoryTransferViewModel.getCategories():29 - Categories fetched.
+12:19:44.994 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Dashboard!B8:C"]
+12:19:45.007 INFO AccountBalancesViewModel.refresh():33 - Account Balances retrieved
+12:19:51.867 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Transactions!B9:H"]
+12:19:51.952 INFO TransactionsViewModel.refresh():59 - Trsansactions fetched.
+12:19:53.807 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Dashboard!F6:O"]
+12:19:53.885 INFO DashboardViewModel.refresh():66 - Dashboard fetched.
+12:20:14.904 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+12:20:15.835 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+14:35:27.936 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+14:35:32.795 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+14:35:32.809 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+14:35:43.682 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+14:35:44.245 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B956:H956
+14:35:47.082 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+14:35:48.361 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+18:23:40.034 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+18:23:42.460 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+18:23:42.463 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+18:24:05.222 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+18:24:05.914 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B957:H957
+18:24:10.737 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Transactions!B9:H"]
+18:24:10.821 INFO TransactionsViewModel.refresh():59 - Trsansactions fetched.
+18:24:11.631 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+18:24:12.462 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+07:42:51.433 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Dashboard!F6:O"]
+07:42:51.509 INFO DashboardViewModel.refresh():66 - Dashboard fetched.
+07:43:27.127 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+07:43:27.138 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+07:44:41.645 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+07:44:42.558 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+07:48:06.201 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+07:48:06.215 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+07:48:53.434 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+07:48:53.450 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+07:49:30.738 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+07:49:30.745 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+07:50:51.387 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+07:50:52.350 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+11:33:42.369 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+11:33:43.240 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+11:34:13.019 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G"]
+11:34:13.029 INFO CategoryTransferViewModel.getCategories():29 - Categories fetched.
+11:34:21.236 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G"]
+11:34:21.240 INFO CategoryTransferViewModel.getCategories():29 - Categories fetched.
+11:34:24.386 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G"]
+11:34:24.393 INFO CategoryTransferViewModel.getCategories():29 - Categories fetched.
+11:34:29.161 INFO GoogleContentManager.getRange():282 - Data requested for unknown type CategoryTransfer.
+11:34:29.818 INFO GoogleSheetsManager.append():161 - Data appended at:  'Category Transfers'!B330:F330
+11:34:29.830 INFO CategoryTransferViewModel.submit():41 - Category Transfer submitted.
+11:34:36.356 INFO GoogleContentManager.getRange():282 - Data requested for unknown type CategoryTransfer.
+11:34:36.879 INFO GoogleSheetsManager.append():161 - Data appended at:  'Category Transfers'!B331:F331
+11:34:36.891 INFO CategoryTransferViewModel.submit():41 - Category Transfer submitted.
+11:34:40.372 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Transactions!B9:H"]
+11:34:40.457 INFO TransactionsViewModel.refresh():59 - Trsansactions fetched.
+11:34:45.997 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Dashboard!F6:O"]
+11:34:46.076 INFO DashboardViewModel.refresh():66 - Dashboard fetched.
+11:34:58.589 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G"]
+11:34:58.599 INFO CategoryTransferViewModel.getCategories():29 - Categories fetched.
+11:35:06.464 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G"]
+11:35:06.478 INFO CategoryTransferViewModel.getCategories():29 - Categories fetched.
+11:35:10.262 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G"]
+11:35:10.276 INFO CategoryTransferViewModel.getCategories():29 - Categories fetched.
+11:35:11.478 INFO GoogleContentManager.getRange():282 - Data requested for unknown type CategoryTransfer.
+11:35:12.007 INFO GoogleSheetsManager.append():161 - Data appended at:  'Category Transfers'!B332:F332
+11:35:12.019 INFO CategoryTransferViewModel.submit():41 - Category Transfer submitted.
+11:35:23.992 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Transactions!B9:H"]
+11:35:24.078 INFO TransactionsViewModel.refresh():59 - Trsansactions fetched.
+11:35:27.774 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Dashboard!B8:C"]
+11:35:27.787 INFO AccountBalancesViewModel.refresh():33 - Account Balances retrieved
+11:35:32.382 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Dashboard!F6:O"]
+11:35:32.457 INFO DashboardViewModel.refresh():66 - Dashboard fetched.
+11:35:47.390 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+11:35:48.290 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+13:25:54.506 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Dashboard!B8:C"]
+13:25:54.527 INFO AccountBalancesViewModel.refresh():33 - Account Balances retrieved
+13:25:56.037 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+13:25:57.002 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+14:39:18.790 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+14:39:21.422 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+14:39:21.429 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+14:39:32.985 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+14:39:33.648 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B958:H958
+14:39:36.623 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+14:39:37.676 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+17:47:50.521 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Transactions!B9:H"]
+17:47:50.603 INFO TransactionsViewModel.refresh():59 - Trsansactions fetched.
+17:47:50.606 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+17:47:56.077 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+17:47:56.799 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+17:47:56.807 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+17:48:09.887 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+17:48:10.598 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B959:H959
+17:48:15.916 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+17:48:16.440 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B960:H960
+17:48:25.075 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Dashboard!B8:C"]
+17:48:25.077 INFO AccountBalancesViewModel.refresh():33 - Account Balances retrieved
+17:48:25.453 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Transactions!B9:H"]
+17:48:25.539 INFO TransactionsViewModel.refresh():59 - Trsansactions fetched.
+17:48:27.665 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+17:48:28.821 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+18:36:03.573 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+18:36:05.922 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+18:36:05.933 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+18:36:17.223 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+18:36:18.006 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B961:H961
+18:36:20.107 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+18:36:21.054 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+20:35:40.244 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+20:35:43.489 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+20:35:43.501 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+20:35:55.062 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+20:35:55.776 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B962:H962
+20:35:58.411 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+20:35:59.332 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+06:00:08.416 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+06:00:11.446 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+06:00:11.454 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+06:00:31.618 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+06:00:32.230 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B963:H963
+06:00:42.983 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Dashboard!B8:C"]
+06:00:42.996 INFO AccountBalancesViewModel.refresh():33 - Account Balances retrieved
+06:00:44.019 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Transactions!B9:H"]
+06:00:44.103 INFO TransactionsViewModel.refresh():59 - Trsansactions fetched.
+06:00:45.495 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+06:00:46.541 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+07:42:33.846 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Dashboard!B8:C"]
+07:42:33.865 INFO AccountBalancesViewModel.refresh():33 - Account Balances retrieved
+07:42:37.428 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Dashboard!F6:O"]
+07:42:37.503 INFO DashboardViewModel.refresh():66 - Dashboard fetched.
+07:43:41.493 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+07:43:42.321 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+07:43:43.269 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+14:32:27.798 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+14:32:30.896 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+14:32:30.899 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+14:32:40.184 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+14:32:40.671 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B969:H969
+14:32:44.762 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+14:32:45.948 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+14:46:04.820 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+14:46:07.449 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+14:46:07.455 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+14:46:20.846 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+14:46:21.480 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B970:H970
+14:46:24.370 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+14:46:25.473 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+16:55:33.603 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+16:55:38.266 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+16:55:38.283 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+16:55:50.054 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+16:55:50.757 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B971:H971
+16:55:54.288 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+16:55:55.164 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+06:29:13.342 INFO GoogleUserManager.authenticate():64 - Attempting to authenticate with Google
+06:29:13.354 INFO GoogleUserManager.fetchUser():71 - Attempting to restore previous Google SignIn
+06:29:13.656 INFO GoogleUserManager.signIn():105 - User authenticated with Google successfully.
+06:29:13.660 INFO AppDefaults.getDefaultSheet():53 - Default sheet found: Copia de Aspire Budget v3.3
+06:29:13.662 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transactions.
+06:29:13.665 INFO GoogleContentManager.getRange():282 - Data requested for unknown type TrxCategories.
+06:29:16.309 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!2:2"]
+06:29:16.321 INFO GoogleContentManager.getVersion():202 - Using Aspire Version:  3.3.0
+06:29:17.629 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Dashboard!F6:O"]
+06:29:17.705 INFO DashboardViewModel.refresh():66 - Dashboard fetched.
+06:29:19.276 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Transactions!B9:H"]
+06:29:19.364 INFO TransactionsViewModel.refresh():59 - Trsansactions fetched.
+06:29:27.668 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Dashboard!B8:C"]
+06:29:27.683 INFO AccountBalancesViewModel.refresh():33 - Account Balances retrieved
+06:29:31.663 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Dashboard!F6:O"]
+06:29:31.738 INFO DashboardViewModel.refresh():66 - Dashboard fetched.
+06:30:16.719 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Dashboard!B8:C"]
+06:30:16.734 INFO AccountBalancesViewModel.refresh():33 - Account Balances retrieved
+06:30:17.829 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Transactions!B9:H"]
+06:30:17.916 INFO TransactionsViewModel.refresh():59 - Trsansactions fetched.
+06:30:22.555 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Dashboard!F6:O"]
+06:30:22.629 INFO DashboardViewModel.refresh():66 - Dashboard fetched.
+06:30:22.804 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+06:30:23.744 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+16:43:24.263 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+16:43:27.054 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+16:43:27.065 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+16:43:35.557 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+16:43:36.197 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B972:H972
+16:43:39.620 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+16:43:40.607 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+17:56:59.063 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+17:57:02.058 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+17:57:02.069 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+17:57:16.040 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+17:57:16.680 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B973:H973
+17:57:19.206 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+17:57:20.261 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+20:19:05.650 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+20:19:09.187 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+20:19:09.202 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+20:19:20.601 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+20:19:21.258 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B974:H974
+20:19:26.617 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+20:19:27.065 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B975:H975
+20:19:30.643 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Transactions!B9:H"]
+20:19:30.728 INFO TransactionsViewModel.refresh():59 - Trsansactions fetched.
+20:19:32.601 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+20:19:33.816 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+20:39:24.245 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+20:39:26.910 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+20:39:26.913 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+20:39:37.990 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+20:39:38.393 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B976:H976
+20:39:50.706 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+20:39:51.073 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B977:H977
+20:39:53.225 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+20:39:53.599 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B978:H978
+20:40:01.593 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Dashboard!B8:C"]
+20:40:01.605 INFO AccountBalancesViewModel.refresh():33 - Account Balances retrieved
+20:40:02.537 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Transactions!B9:H"]
+20:40:02.622 INFO TransactionsViewModel.refresh():59 - Trsansactions fetched.
+20:40:06.922 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Dashboard!F6:O"]
+20:40:06.998 INFO DashboardViewModel.refresh():66 - Dashboard fetched.
+20:40:07.137 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+20:40:08.330 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+22:29:40.593 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+22:29:44.003 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+22:29:44.013 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+22:29:51.960 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+22:29:52.561 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B979:H979
+22:29:55.378 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+22:29:56.606 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+07:31:38.159 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Transactions!B9:H"]
+07:31:38.242 INFO TransactionsViewModel.refresh():59 - Trsansactions fetched.
+07:31:43.275 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Dashboard!F6:O"]
+07:31:43.353 INFO DashboardViewModel.refresh():66 - Dashboard fetched.
+07:31:53.156 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+07:31:54.055 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+09:41:25.155 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+09:41:28.664 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+09:41:28.671 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+09:41:39.112 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+09:41:39.827 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B980:H980
+09:41:41.822 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+09:41:42.789 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+17:48:10.836 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+17:48:13.952 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B981:H981
+17:48:15.490 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Transactions!B9:H"]
+17:48:15.578 INFO TransactionsViewModel.refresh():59 - Trsansactions fetched.
+17:48:17.107 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+17:48:17.916 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+10:09:19.167 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+10:09:22.151 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+10:09:22.154 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+10:09:33.361 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+10:09:34.082 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B982:H982
+10:09:36.784 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+10:09:37.786 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+11:05:20.445 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+11:05:23.126 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+11:05:23.132 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+11:05:37.588 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+11:05:38.181 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B983:H983
+11:05:43.727 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+11:05:43.811 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Dashboard!B8:C"]
+11:05:43.919 INFO AccountBalancesViewModel.refresh():33 - Account Balances retrieved
+11:05:44.777 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+14:23:42.035 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+14:23:44.617 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+14:23:44.626 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+14:23:55.101 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+14:23:56.365 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B984:H984
+14:23:58.155 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+14:23:59.168 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+06:06:25.326 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+06:06:28.178 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B985:H985
+06:06:31.415 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+06:06:32.499 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+07:42:11.052 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+07:42:14.151 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+07:42:14.153 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+07:42:23.172 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+07:42:23.690 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B986:H986
+07:42:26.786 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+07:42:27.656 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+14:28:30.010 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+14:28:33.297 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+14:28:33.310 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+14:28:41.652 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+14:28:42.361 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B987:H987
+14:28:44.993 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+14:28:46.071 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+17:28:24.432 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+17:28:27.642 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+17:28:27.648 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+17:28:36.976 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+17:28:37.587 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B988:H988
+17:28:45.988 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Transactions!B9:H"]
+17:28:46.080 INFO TransactionsViewModel.refresh():59 - Trsansactions fetched.
+17:28:47.902 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+17:28:48.832 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+18:27:34.818 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+18:27:37.747 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+18:27:37.752 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+18:27:52.385 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+18:27:53.042 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B989:H989
+18:27:55.788 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+18:27:56.729 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+14:30:06.959 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+14:30:10.149 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+14:30:10.155 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+14:30:18.214 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+14:30:18.795 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B990:H990
+14:30:22.466 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+14:30:23.483 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+17:45:22.596 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+17:45:25.699 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+17:45:25.706 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+17:45:34.010 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+17:45:34.581 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B991:H991
+17:45:37.013 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+17:45:38.114 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+06:21:56.907 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+06:22:00.506 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+06:22:00.518 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+06:22:19.846 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+06:22:20.472 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B992:H992
+06:22:43.821 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Dashboard!F6:O"]
+06:22:43.897 INFO DashboardViewModel.refresh():66 - Dashboard fetched.
+06:22:45.264 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Transactions!B9:H"]
+06:22:45.351 INFO TransactionsViewModel.refresh():59 - Trsansactions fetched.
+06:22:59.795 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Dashboard!F6:O"]
+06:22:59.873 INFO DashboardViewModel.refresh():66 - Dashboard fetched.
+06:22:59.981 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+06:23:00.926 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+16:51:33.850 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+16:51:36.034 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+16:51:36.042 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+16:51:46.055 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+16:51:46.651 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B993:H993
+16:51:49.665 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+16:51:50.617 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+17:42:08.445 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+17:42:11.332 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+17:42:11.339 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+17:42:23.095 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+17:42:23.680 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B994:H994
+17:42:29.130 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Transactions!B9:H"]
+17:42:29.214 INFO TransactionsViewModel.refresh():59 - Trsansactions fetched.
+17:42:30.644 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+17:42:31.594 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+06:08:09.064 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+06:08:12.042 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+06:08:12.055 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+06:08:26.825 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+06:08:27.514 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B995:H995
+06:08:30.530 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+06:08:31.487 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+09:58:06.482 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+09:58:09.958 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+09:58:09.969 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+09:58:19.718 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+09:58:20.310 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B996:H996
+09:58:22.598 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+09:58:23.561 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+10:23:38.544 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+10:23:41.078 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+10:23:41.090 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+10:23:51.479 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+10:23:52.139 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B997:H997
+10:23:55.340 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+10:23:56.349 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+16:54:41.932 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+16:54:45.934 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+16:54:45.948 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+16:54:54.991 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+16:54:55.648 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B998:H998
+16:54:58.123 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+16:54:59.195 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+17:51:38.900 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+17:51:42.314 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+17:51:42.324 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+17:51:52.902 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+17:51:53.562 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B999:H999
+17:52:01.945 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Dashboard!B8:C"]
+17:52:01.959 INFO AccountBalancesViewModel.refresh():33 - Account Balances retrieved
+17:52:03.547 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Transactions!B9:H"]
+17:52:03.633 INFO TransactionsViewModel.refresh():59 - Trsansactions fetched.
+17:52:10.018 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+17:52:10.943 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+16:22:19.957 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+16:22:22.799 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+16:22:22.807 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+16:22:50.923 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+16:22:51.672 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B1000:H1000
+16:23:14.323 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+16:23:14.749 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+16:23:14.762 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+16:23:18.708 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Dashboard!B8:C"]
+16:23:18.721 INFO AccountBalancesViewModel.refresh():33 - Account Balances retrieved
+16:23:19.915 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+16:23:20.551 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+16:23:20.555 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+16:23:23.019 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Transactions!B9:H"]
+16:23:23.108 INFO TransactionsViewModel.refresh():59 - Trsansactions fetched.
+16:23:25.903 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Dashboard!B8:C"]
+16:23:25.916 INFO AccountBalancesViewModel.refresh():33 - Account Balances retrieved
+16:23:28.540 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Dashboard!F6:O"]
+16:23:28.618 INFO DashboardViewModel.refresh():66 - Dashboard fetched.
+16:23:34.787 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+16:23:35.703 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+10:31:41.804 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+10:31:45.772 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+10:31:45.780 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+10:31:55.946 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+10:31:56.621 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B1001:H1001
+10:31:59.860 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+10:32:00.863 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+14:42:56.625 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+14:42:59.661 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+14:42:59.676 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+14:43:09.681 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+14:43:10.236 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B1002:H1002
+14:43:16.002 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Transactions!B9:H"]
+14:43:16.089 INFO TransactionsViewModel.refresh():59 - Trsansactions fetched.
+14:43:17.516 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+14:43:18.730 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+17:33:44.354 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+17:33:46.890 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+17:33:46.905 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+17:33:56.003 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+17:33:56.585 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B1003:H1003
+17:33:59.735 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+17:34:00.644 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+19:26:06.580 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+19:26:07.538 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+19:26:14.792 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Dashboard!B8:C"]
+19:26:14.801 INFO AccountBalancesViewModel.refresh():33 - Account Balances retrieved
+19:26:14.807 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Dashboard!F6:O"]
+19:26:14.873 INFO DashboardViewModel.refresh():66 - Dashboard fetched.
+19:26:30.740 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+19:26:31.551 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+20:54:38.088 INFO GoogleUserManager.authenticate():64 - Attempting to authenticate with Google
+20:54:38.109 INFO GoogleUserManager.fetchUser():71 - Attempting to restore previous Google SignIn
+20:54:38.530 INFO GoogleUserManager.signIn():105 - User authenticated with Google successfully.
+20:54:38.540 INFO AppDefaults.getDefaultSheet():53 - Default sheet found: Copia de Aspire Budget v3.3
+20:54:38.544 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transactions.
+20:54:38.546 INFO GoogleContentManager.getRange():282 - Data requested for unknown type TrxCategories.
+20:54:41.556 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!2:2"]
+20:54:41.562 INFO GoogleContentManager.getVersion():202 - Using Aspire Version:  3.3.0
+20:54:42.072 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Dashboard!F6:O"]
+20:54:42.146 INFO DashboardViewModel.refresh():66 - Dashboard fetched.
+20:54:43.379 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+20:54:44.071 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+20:54:44.077 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+20:55:03.649 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+20:55:04.424 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B1004:H1004
+20:55:07.498 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+20:55:08.411 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+14:36:09.967 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+14:36:12.097 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+14:36:12.110 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+14:36:23.359 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+14:36:23.976 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B1005:H1005
+14:36:31.189 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Transactions!B9:H"]
+14:36:31.274 INFO TransactionsViewModel.refresh():59 - Trsansactions fetched.
+14:36:33.448 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+14:36:34.504 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+12:36:27.211 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Dashboard!F6:O"]
+12:36:27.288 INFO DashboardViewModel.refresh():66 - Dashboard fetched.
+12:36:30.108 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+12:36:31.022 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+06:02:02.633 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+06:02:03.657 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+06:02:08.115 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+06:02:10.206 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+06:02:10.213 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+06:02:26.249 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+06:02:28.110 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B1006:H1006
+06:02:30.800 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+06:02:31.437 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+06:02:50.735 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+06:02:51.993 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B1007:H1007
+06:02:58.424 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+06:03:01.073 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B1008:H1008
+06:03:06.106 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Transactions!B9:H"]
+06:03:06.192 INFO TransactionsViewModel.refresh():59 - Trsansactions fetched.
+06:03:10.594 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Dashboard!B8:C"]
+06:03:10.606 INFO AccountBalancesViewModel.refresh():33 - Account Balances retrieved
+06:03:17.081 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+06:03:18.041 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+06:16:09.060 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Dashboard!F6:O"]
+06:16:09.133 INFO DashboardViewModel.refresh():66 - Dashboard fetched.
+06:16:50.362 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+06:16:51.295 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+09:31:50.317 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Dashboard!B8:C"]
+09:31:50.336 INFO AccountBalancesViewModel.refresh():33 - Account Balances retrieved
+09:31:56.676 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Dashboard!F6:O"]
+09:31:56.754 INFO DashboardViewModel.refresh():66 - Dashboard fetched.
+09:32:00.568 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+09:32:00.971 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Dashboard!F6:O"]
+09:32:01.047 INFO DashboardViewModel.refresh():66 - Dashboard fetched.
+09:32:01.514 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+17:58:09.751 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+17:58:12.746 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+17:58:12.856 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+17:58:26.789 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+17:58:27.299 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B1009:H1009
+17:58:31.944 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+17:58:33.320 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+19:55:19.975 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+19:55:23.060 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+19:55:23.067 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+19:55:34.070 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+19:55:34.572 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B1010:H1010
+19:55:44.840 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+19:55:45.293 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B1011:H1011
+19:55:49.476 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Transactions!B9:H"]
+19:55:49.565 INFO TransactionsViewModel.refresh():59 - Trsansactions fetched.
+19:55:51.422 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+19:55:52.622 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+21:41:11.419 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+21:41:14.299 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+21:41:14.311 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+21:41:25.658 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+21:41:26.298 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B1012:H1012
+21:41:36.307 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Dashboard!B8:C"]
+21:41:36.320 INFO AccountBalancesViewModel.refresh():33 - Account Balances retrieved
+21:41:37.352 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Transactions!B9:H"]
+21:41:37.439 INFO TransactionsViewModel.refresh():59 - Trsansactions fetched.
+21:41:38.838 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+21:41:39.812 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+22:25:59.337 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+22:26:01.569 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+22:26:01.575 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+22:26:22.652 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+22:26:23.328 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B1013:H1013
+22:26:29.679 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+22:26:30.617 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+14:58:45.917 ERROR GoogleContentManager.getRanges():226 - No named range found for:  trx_CategoriesList or trx_CategoriesList
+14:58:48.875 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["BackendData!G2:G", "BackendData!M2:M"]
+14:58:48.883 INFO GoogleContentManager.getBatchData():81 - AddTransactionMetadata retrieved
+14:58:57.440 INFO GoogleContentManager.getRange():282 - Data requested for unknown type Transaction.
+14:58:58.150 INFO GoogleSheetsManager.append():161 - Data appended at:  Transactions!B1014:H1014
+14:59:00.450 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+14:59:01.384 ERROR StateManager.transition():63 - Invalid state transition. No state transition performed.
+07:22:53.920 INFO GoogleSheetsManager.fetchData():89 - Read succesful from Google Sheets:  ["Dashboard!F6:O"]
+07:22:53.993 INFO DashboardViewModel.refresh():66 - Dashboard fetched.
